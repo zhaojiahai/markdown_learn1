@@ -92,3 +92,19 @@ ____
 >    > 菜鸟教程  
 >    > 学的不仅是技术更是梦想
 > * 第二项
+
+# 12.代码 使用反引号 ` 包起来
+
+`printf()` 函数
+> # 12.1代码区块 4个空格或1个TAB制表符
+    <?php
+    echo 'Hello';
+    function test(){
+      echo 'test';
+    }
+> # 12.2使用``` ```报过一段代码,并指明语言,也可以不指定
+```javascript
+$(document).ready(function () {
+    alert('RUNOOB');
+});
+```
