@@ -116,3 +116,11 @@ $(document).ready(function () {
 > # 13.1高级链接 使用变量 github貌似不支持
 谷歌的网址[Google][google]  
 [google]: https://www.google.com
+
+# 14.图片
+> ![alt 罗博飞logo](./RobotFish.png)  
+> ---
+> ---
+> ![alt 罗博飞logo](./RobotFish.png "这是标题")  
+> Markdown没法指定图片宽高,需使用html的<img>标签  
+> <img src="./RobotFish.png" width="50%">
