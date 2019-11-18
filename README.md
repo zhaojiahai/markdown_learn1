@@ -108,3 +108,11 @@ $(document).ready(function () {
     alert('RUNOOB');
 });
 ```
+
+# 13.链接 [链接名称](链接地址)  或者<链接地址>
+
+[我的主页](http://zhaojiahai.top)  
+<https://www.baidu.com>
+> # 13.1高级链接 使用变量 github貌似不支持
+谷歌的网址[Google][google]  
+[google]: https://www.google.com
